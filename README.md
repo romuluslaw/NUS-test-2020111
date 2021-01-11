@@ -14,4 +14,4 @@ Somemore dummy text. 25 minutes until lunch!
 
 ![](aurora.jpg)
 
-![](https://github.com/romuluslaw/NUS-test-2020111/blob/main/aurora.JPG)
+![](https://github.com/romuluslaw/NUS-test-2020111/main/aurora.JPG)
