@@ -12,6 +12,6 @@ Somemore dummy text. 25 minutes until lunch!
 * hand out reading assignments and homework!
 *time to change some stuff
 
-![](aurora.jpg)
+![](aurora.JPG)
 
 ![](https://raw.githubusercontent.com/romuluslaw/NUS-test-2020111/main/aurora.JPG)
