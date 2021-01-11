@@ -11,6 +11,8 @@ Somemore dummy text. 25 minutes until lunch!
 * docker - if time permits 
 * hand out reading assignments and homework!
 
+time to change some stuff
+
 ![](aurora.jpg)
 
 ![](https://github.com/romuluslaw/NUS-test-2020111/blob/main/aurora.JPG)
