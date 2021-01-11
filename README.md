@@ -10,8 +10,7 @@ Somemore dummy text. 25 minutes until lunch!
 * cloud with gilbert
 * docker - if time permits 
 * hand out reading assignments and homework!
-
-time to change some stuff
+*time to change some stuff
 
 ![](aurora.jpg)
 
