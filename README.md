@@ -1,2 +1,12 @@
-# NUS-test-2020111
-This is a test project to start learning about Git
+# THis is a test repository
+
+## this text is somehow smaller 
+
+Somemore dummy text. 25 minutes until lunch!
+
+### Here is a list of things we will do later today:
+
+* more git
+* cloud with gilbert
+* docker - if time permits 
+
